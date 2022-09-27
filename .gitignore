@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+chap05.iml
+.idea/vcs.xml
